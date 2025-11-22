@@ -1,5 +1,5 @@
 
-name: Build a pipeline with dockerhub
+name: Build CI/CD pipeline with docker to React app
 
 on:
   push:
